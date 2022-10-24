@@ -1,0 +1,15 @@
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\bin\Debug\net6.0\ConsoleChessMVC.exe
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\bin\Debug\net6.0\ConsoleChessMVC.deps.json
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\bin\Debug\net6.0\ConsoleChessMVC.runtimeconfig.json
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\bin\Debug\net6.0\ConsoleChessMVC.dll
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\bin\Debug\net6.0\ConsoleChessMVC.pdb
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.csproj.AssemblyReference.cache
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.AssemblyInfoInputs.cache
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.AssemblyInfo.cs
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.csproj.CoreCompileInputs.cache
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.dll
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\refint\ConsoleChessMVC.dll
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.pdb
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ConsoleChessMVC.genruntimeconfig.cache
+C:\Coding\VS22 Programs\ConsoleChessMVC\ConsoleChessMVC\obj\Debug\net6.0\ref\ConsoleChessMVC.dll
